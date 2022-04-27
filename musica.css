@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+body { background :black;
+font-family: 'La Belle Aurore', cursive; } 
+
+
+
+#textom { 
+text-aling:center; }
+.xit {
+text-aling:center;
+width:1000px;
+display:block; } 
+
+#ret { width: 100%; 
+text-align: center;
+color: black; 
+font-size:40px; }
+
+
+body{background-image:url("Desktop - 4.png");
+background-repeat:no-repeat;
+background-size:cover; } 
+
+
+
+//pagina MUSICA.
+
+
+
+#rat { width: 100%; 
+text-align: center;
+background: #204855;
+color: white; 
+font-size:30px; }
+
+#textom { 
+text-aling:center; }
+.xit {
+text-aling:center;
+width:1000px;
+display:block; } 
+
+#ret { width: 100%; 
+text-align: center;
+color: black; 
+font-size:40px; }
